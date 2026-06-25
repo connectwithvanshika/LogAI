@@ -1,0 +1,22 @@
+# Raw data
+data/raw_logs/
+
+# Processed data
+data/processed/
+
+# Embeddings
+data/embeddings/
+
+# Saved models
+models/checkpoints/
+models/saved_models/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
