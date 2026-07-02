@@ -1,4 +1,4 @@
-# 🔄 Project Workflow
+# Project Workflow
 
 The project follows an end-to-end AI-driven pipeline for automated **Log Anomaly Detection** and **Root Cause Analysis (RCA)**. The workflow is illustrated below:
 
